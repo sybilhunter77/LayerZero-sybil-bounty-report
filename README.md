@@ -11,10 +11,10 @@ We recommend that you follow this logic: first familiarize yourself with our met
 - [**Description Tables part1.md** to **part17.md**](description_tables): These files split the content of 'Description Tables (All in one).md' for easier access and navigation.
   
 ### Description
-[Description.md](Description.md)  
+[description.md](description.md)  
 
 ### Methodology
-[Methodology.docx](Methodology.md)  
+[methodology.docx](methodology.md)  
 
 ### .xlsx table
 We stick to the classy style in the design of developers' documentation and used .md format, but for your convenience, we also want to attach a table where you can conveniently view information about all the wallets (with gradients and other visual tools). Use CTRL+F to search for the address you are interested in
