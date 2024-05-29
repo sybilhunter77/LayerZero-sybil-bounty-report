@@ -16,7 +16,9 @@ We recommend that you follow this logic: first familiarize yourself with our met
 ### Methodology
 [methodology.docx](methodology.md)  
 
-### .xlsx table
+#### All the tables in .xlsx
+[description_table.xlsx](description_table.xlsx)
+
 We stick to the classy style in the design of developers' documentation and used .md format, but for your convenience, we also want to attach a table where you can conveniently view information about all the wallets (with gradients and other visual tools). Use CTRL+F to search for the address you are interested in
 
 ### Code Base
