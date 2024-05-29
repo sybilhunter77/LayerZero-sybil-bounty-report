@@ -20,4 +20,4 @@ Now, based on the specifics of the protocol activity, we have proposed the follo
 For each specific group we used a different selection of criteria, but we can clearly say that we used at least 4 criteria, 3 of which should be heterogeneous (e.g. we did not rely only on 3 dates or only on volume equality). Moreover, each of the groups was processed carefully manually. Then we decided that verbal descriptions would not be as clear and we present tables. Everything is clear in them without words. We also strongly recommend you to read our Methodology
 
 Below you will see all the relevant data for each wallet in tables for each cluster 
-important clarification: our reports are quite large, so we physically have no possibility to check the fact of reporting before us. Moreover, we expect hot FCFS during the opening of the second window. That's why, in case of matches with already reportered ones, we note that we have no claims on other people's intellectual property and rewards for these addresses
+\
