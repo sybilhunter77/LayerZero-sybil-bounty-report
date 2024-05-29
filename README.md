@@ -1,6 +1,6 @@
 # Sybil Activity Report
 
-This repository contains our report hosted on [сommonwealth.im](link) at May 28th 2024 4:46 AM UTC, now duplicated to GitHub for better manageability and readability due to technical issues on the Commonwealth platform.  
+This repository contains our report hosted on [сommonwealth.im](link) at May 28th 2024 4:46 AM UTC, now duplicated to GitHub for better manageability and readability due to technical issues on the Commonwealth platform.    
 We recommend that you follow this logic: first familiarize yourself with our methodology and reasoning, and then review all the files. They present clear and comprehensive evidence. If you wish, you may also refer to the dataset we have compiled, or verify everything on your side.
 ##
 
