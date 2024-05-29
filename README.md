@@ -26,7 +26,7 @@ Will be disclosed after bounty closure
 ### Reward Address
 
 If you find this report useful and wish to support or reward our efforts, contributions can be made to the following address:
-`10x41907DDF9Be072Ec8406aa54618a48d6504B906d`
+`0x41907DDF9Be072Ec8406aa54618a48d6504B906d`
 
 ## Additional Notes
 
