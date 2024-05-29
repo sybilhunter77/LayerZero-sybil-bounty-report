@@ -14,7 +14,7 @@ We recommend that you follow this logic: first familiarize yourself with our met
 [description.md](description.md)  
 
 ### Methodology
-[methodology.docx](methodology.md)  
+[methodology.md](methodology.md)  
 
 #### All the tables in .xlsx
 [description_table.xlsx](description_table.xlsx)
