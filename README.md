@@ -14,7 +14,7 @@ We recommend that you follow this logic: first familiarize yourself with our met
 [Description.md](Description.md)  
 
 ### Methodology
-[Methodology.docx](URL_TO_METHODOLOGY)  
+[Methodology.docx](Methodology.md)  
 
 ### .xlsx table
 We stick to the classy style in the design of developers' documentation and used .md format, but for your convenience, we also want to attach a table where you can conveniently view information about all the wallets (with gradients and other visual tools). Use CTRL+F to search for the address you are interested in
