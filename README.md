@@ -8,7 +8,7 @@ We recommend that you follow this logic: first familiarize yourself with our met
 - [**all_addresses_clean.txt**](all_addresses_clean.txt): This file includes only a clean list of addresses.
 - [**Reported Addresses**](reported_addresses.md): Addresses are clustered and grouped as described in the methodology, without table proofs. Notes like 'allcsvfull1' and 'huobi 10' are for internal navigation.
 - [**Description Tables.md**](description_tables_all_in_one.md): Contains all tables demonstrating data indicative of Sybil activity within each cluster.
-- [**Description Tables part1.md** to **part17.md**](description_tables): These files split the content of 'Description Tables (All in one).md' for easier access and navigation.
+- [Folder with splitted tables](description_tables): These files split the content of 'Description Tables (All in one).md' for easier access and navigation.
   
 ### Description
 [description.md](description.md)  
